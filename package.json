@@ -1,0 +1,11 @@
+{
+	"private": true,
+	"name": "smartline.dev",
+	"version": "0.0.0",
+	"scripts": {
+		"check": "biome format --write"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.3.5"
+	}
+}
